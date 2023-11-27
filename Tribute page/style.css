@@ -1,0 +1,38 @@
+.box{
+    border:3px solid rgb(218, 27, 46);
+    margin:40px;
+    padding:5px;
+    border-radius: 5px;
+    background-color:antiquewhite;
+    box-shadow: 5px;
+    
+}
+#image{
+    padding-left:12cm;
+    border-radius: 5px;
+    width:40%;
+    height:6cm;
+}
+small{
+    padding-left: 17cm;
+}
+#title{
+    padding-left: 15cm;
+}
+#points{
+    justify-content: center;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 0px;
+    font-size: medium;
+}
+h3{
+    font-family:sans-serif;
+}
+#content{
+    font-size: large;
+    justify-content: space-evenly;
+    width:100%;
+    text-align: justify;
+    padding-right: 2px;
+}
